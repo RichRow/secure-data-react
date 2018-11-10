@@ -54,7 +54,7 @@ class Employee extends React.Component {
     }
 }
 
-ReactDom.render(
+ReactDOM.render(
     <App />,
     document.getElementById('react')
 )
